@@ -48,5 +48,4 @@ class AuthRepositoryImpl extends AuthRepository {
       }
     );
   }
-  
 }
